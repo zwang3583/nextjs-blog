@@ -104,6 +104,6 @@ The loop invariant here self-explanatory, and since we have already proved the *
     progress.
     qed.
 
-I understand that this blog may make little sense given the immense context that I left out, but I still hope you gained some insight!
+Voila! We have just proven that the **Above Threshold Algorithm** is (ε, 0)-**differentially private** using **EasyCrypt**! I understand that this blog may make little to no sense given the immense context that I left out, but I still hope that you were able to gain some insight!
 
 <div style="text-align: right"> - Zheng </div>

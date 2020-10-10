@@ -96,6 +96,6 @@ Obviously, this algorithm is very memory intensive. Because we need to build upo
 
 Although this algorithm does not break most **OPT Reuse** cases, it shines light on how easy it is to break such cases if we had the lightest knowledge about the information contained in the plaintexts. 
 
-I hope this blog post help you learn something new, and I appreciate you taking the time to read it to the end.
+I hope this blog post helped you learn something new, and I appreciate you taking the time to read it to the end.
 
 <div style="text-align: right"> - Zheng </div>

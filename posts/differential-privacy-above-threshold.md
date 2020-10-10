@@ -3,7 +3,7 @@ title: 'Proving the Differential Privacy of the Above Threshold Algorithm'
 date: '2020-05-12'
 ---
 
-As of writing this post, I realize that it requires an ample amount of background knowledge for clear comprehension; unfortunately, I do not consider myself an expert in any of the relevant fields and therefore do not feel right to describe the concepts in my own words. If interested, I recommend you to read about:
+I realize that this blog requires an ample amount of background knowledge for clear comprehension; unfortunately, I do not consider myself an expert in any of the relevant fields and therefore do not feel right to describe the concepts in my own words. If interested, I recommend you to read about:
 
 - Differential Privacy
 - Sparse Vector Algorithm

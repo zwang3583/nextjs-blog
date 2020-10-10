@@ -87,6 +87,8 @@ Thus, the full algorithm is as follows:
               .decode('utf-8')
         return m1+guesses[-1]
 
+Although the key is not explicitly returned through this algorithm, we can easily obtain it by doing **k** = **ct1** ⊕ **pt1** or **ct2** ⊕ **pt2**.
+
 Obviously, this algorithm is very memory intensive. Because we need to build upon every valid guess, we cannot afford to discard any guesses. You can try this out yourself by copy pasting my code, and use the following argument: 
 
 - ct1=b'd92d647bf108bccf7b5f5810b2630fac27836b0177460fb4b08dd4' 

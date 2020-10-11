@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "date-fns": "^2.16.1",
+    "firebase": "^7.23.0",
     "gray-matter": "^4.0.2",
     "next": "^9.5.5",
     "react": "16.13.1",

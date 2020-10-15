@@ -17,6 +17,7 @@ export default function Home({ allPostsData }) {
         <p>Hello there! I am a BA/MS in Computer Science student at Boston University, expecting to graduate in 2022.</p>
         <p>I have a keen interest in cybersecurity and software engineering for social good.</p>
         <p>I have taken several course relating to cybersecurity such as cryptography and network security, and am volunteering to develop software for organizations with a positive social impact.</p>
+        <p>You can take a look at my profile <Link href={`https://zwang3583.github.io/`}><a>here</a></Link>.</p>
       </section>
 
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
